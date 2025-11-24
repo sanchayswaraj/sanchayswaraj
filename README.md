@@ -4,7 +4,6 @@
 - 🎯 Hands-on experience with internships and personal projects, focusing on front-end development and project implementation.  
 - 📚 Lifelong learner | Always experimenting with new frameworks and tools.  
 - 🌐 Exploring software design, coding best practices, and innovative solutions.  
-- 💞️ I’m looking to collaborate on data science and web development projects  
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/sanchayswaraj)
 
 
